@@ -151,7 +151,7 @@ function addDepartment() {
     });
 }
 
-//FUNCTION TO ADD A ROLE TO THE DATABASE
+//FUNCTION TO ADD A ROLE TO THE DATABASE.
 function addRole() {
 
   //GET THE LIST OF DEPARTMENTS FROM DATABASE
